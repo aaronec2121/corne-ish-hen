@@ -544,3 +544,10 @@
 		// zmk-config/config/includes/mouse_tp.dtsi
     };
 };
+
+&right_encoder_1 {
+    status = "okay";
+};
+&right_encoder_2 {
+    status = "okay";
+};
