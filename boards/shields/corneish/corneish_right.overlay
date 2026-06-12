@@ -1,4 +1,4 @@
-#include "corne_tp.dtsi"
+#include "corneish.dtsi"
 
 &default_transform {
     col-offset = <6>;
