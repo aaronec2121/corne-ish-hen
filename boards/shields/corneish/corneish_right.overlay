@@ -545,9 +545,9 @@
     };
 };
 
-&right_encoder_1 {
+&encoder_1 {
     status = "okay";
 };
-&right_encoder_2 {
+&encoder_2 {
     status = "okay";
 };
